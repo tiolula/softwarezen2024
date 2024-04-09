@@ -12,7 +12,7 @@ O problema que queremos resolver aqui é a compra de moeda estrangeira.
 
 - Caso o resultado tenha mais de 2 casas decimais, ele deve ser arredondado para baixo (truncado)
 
-- O cálculo deve somar também o IOF, fixado em 1.1%
+- O imposto é fixo
 
 ## Dicas
 
