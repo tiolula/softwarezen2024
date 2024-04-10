@@ -1,2 +1,2 @@
-def converter(valor, taxa):
-    return 0
+def converter(valor, taxa, imposto):
+    return  round (valor * taxa + valor * imposto, 2)
